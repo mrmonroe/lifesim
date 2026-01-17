@@ -7,6 +7,7 @@ A python life simulator. From scratch
 - ### Phase 1
   - Create MVP Architecture
   - Stub classes
+  - Running in console
   - Get basic functionality for system working, game loop, person, resource, state and environment objects
     - code structure
     - game loop
@@ -15,6 +16,12 @@ A python life simulator. From scratch
     - environment factory
     - state object
     - update list
+- ### Phase 2
+  - Logging
+  - Deploy to Web
+  - Web display
+- ### Phase 3
+  - Add new attributes and actions  
 
 ## MVP Requirements
 - ### Actions
@@ -41,6 +48,5 @@ A python life simulator. From scratch
     - ObjectManager
     - StateManager
   
- -   
-- ### State
-  - 
+  
+### State
